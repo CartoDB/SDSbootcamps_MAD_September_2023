@@ -43,7 +43,7 @@ El día del evento podrás encontrar las presentación en <a href="https://docs.
 <h2>Sesión 4: “Leverage Python for Spatial Data Science” con Giulia Carella</h2>
 <p>
 
-Puedes encontrar las instrucciones de los prerrequisitos en [este documento](https://docs.google.com/document/d/1k4DIXZU3b8d_8-uIv9IVjN5eW1Hec7u5XfzY6tqelno/edit).
+Puedes encontrar las instrucciones de los prerrequisitos en [este documento](https://docs.google.com/document/d/1k4DIXZU3b8d_8-uIv9IVjN5eW1Hec7u5XfzY6tqelno/edit). </br>
 Los materiales del workshop se encuentran [en este repositorio](https://github.com/CartoDB/research-public/tree/master/sds-bootcamps-madrid-23-9/Leveraging%20Python%20for%20Spatial%20Data%20Science)
 
 </p>
