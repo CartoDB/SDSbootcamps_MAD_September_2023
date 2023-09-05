@@ -18,7 +18,8 @@ Para muchos de los talleres necesitarás acceso a una cuenta de CARTO. Si aún n
 <br>
 <h2>Sesión 1: “The Foundations of Geospatial” con Dr. Jorge Mateu</h2>
 <p>
- Accede a los materiales <a href="" target="_blank" rel="noopener noreferrer">aquí</a>. <br>
+No hay prerrequisitos para este taller. <br>
+Accede a los materiales <a href="https://github.com/CartoDB/SDSbootcamps_MAD_September_2023/tree/main/introduction_to_geospatial" target="_blank" rel="noopener noreferrer">aquí</a>. <br>
  
 </p>
 <br>
@@ -26,7 +27,7 @@ Para muchos de los talleres necesitarás acceso a una cuenta de CARTO. Si aún n
 
 <p>
 No hay prerrequisitos para este taller. <br>
-El día del evento podrás encontrar las presentación en <a href="https://docs.google.com/presentation/d/1tW8R6d1tNt0Hc6tt7z_jSC0Ui1fYitsWYmjR4BLA3AE/edit#slide=id.g1349edbd6f7_0_258" target="_blank" rel="noopener noreferrer">este link</a>.
+El día del evento podrás encontrar las presentación en <a href="" target="_blank" rel="noopener noreferrer">este link</a>. (Pendiente)
 </p>
 <br>
 
@@ -36,14 +37,15 @@ El día del evento podrás encontrar las presentación en <a href="https://docs.
 No hay prerrequisitos para este taller. Puedes encontrar mas información en 
 <a href="https://github.com/diego-vicente/sdsb-mad-2023">este repositorio</a>.
 <br>
-El día del evento podrás encontrar las presentación en <a href="https://docs.google.com/presentation/d/1g8rNGBMgdS_JMkUjlE2hK6pOCu9OlJOTJCFC6mqvKrM/edit#slide=id.p">este link</a>.
+El día del evento podrás encontrar las presentación en <a href="https://docs.google.com/presentation/d/1Sltt1x4uAY7K_bdFjuDnw-80HMSoLKehB1ffWtC8_b4/edit?usp=drive_link">este link</a>.
 </p>
 <br>
 <h2>Sesión 4: “Leverage Python for Spatial Data Science” con Giulia Carella</h2>
 <p>
 
-Puedes encontrar las instrucciones de los prerrequisitos en [este documento](https://docs.google.com/document/d/1EwJHbla-tbT4LEbrZYRUfmm2JgEqcYYVD2hWmj-AA18/edit?usp=sharing)
-El día del evento podrás encontrar las presentación en <a href="https://drive.google.com/file/d/1NiX5lN7em2oC3CktBjXxjJueWOFqblcN/view?usp=sharing">este link</a>.
+Puedes encontrar las instrucciones de los prerrequisitos en [este documento](https://docs.google.com/document/d/1k4DIXZU3b8d_8-uIv9IVjN5eW1Hec7u5XfzY6tqelno/edit).
+Los materiales del workshop se encuentran [en este repositorio](https://github.com/CartoDB/research-public/tree/master/sds-bootcamps-madrid-23-9/Leveraging%20Python%20for%20Spatial%20Data%20Science)
+El día del evento podrás encontrar las presentación en <a href="https://drive.google.com/file/d/1NiX5lN7em2oC3CktBjXxjJueWOFqblcN/view?usp=sharing">este link</a>. (Pendiente)
 
 </p>
 <br>
