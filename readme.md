@@ -45,7 +45,6 @@ El día del evento podrás encontrar las presentación en <a href="https://docs.
 
 Puedes encontrar las instrucciones de los prerrequisitos en [este documento](https://docs.google.com/document/d/1k4DIXZU3b8d_8-uIv9IVjN5eW1Hec7u5XfzY6tqelno/edit).
 Los materiales del workshop se encuentran [en este repositorio](https://github.com/CartoDB/research-public/tree/master/sds-bootcamps-madrid-23-9/Leveraging%20Python%20for%20Spatial%20Data%20Science)
-El día del evento podrás encontrar las presentación en <a href="https://drive.google.com/file/d/1NiX5lN7em2oC3CktBjXxjJueWOFqblcN/view?usp=sharing">este link</a>. (Pendiente)
 
 </p>
 <br>
