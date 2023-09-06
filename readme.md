@@ -26,8 +26,9 @@ Accede a los materiales <a href="https://github.com/CartoDB/SDSbootcamps_MAD_Sep
 <h2>Sesión 2: “An Intro to Geospatial Data Engineering” con Cayetano Benavent</h2>
 
 <p>
-No hay prerrequisitos para este taller. <br>
-El día del evento podrás encontrar las presentación en <a href="" target="_blank" rel="noopener noreferrer">este link</a>. (Pendiente)
+Requisitos para la práctica [aquí](https://docs.google.com/document/d/18EsZvfU_94lkA-F652CGjs-fgkPIkm_IE4tuzsX2pTo/edit)
+Repositorio con el código de la práctica [aquí](https://github.com/CartoDB/sdsc-bootcamp-spatial-data-eng) <br>
+El día del evento podrás encontrar las presentación en <a href="https://docs.google.com/presentation/d/1Tv686VNcTQJIzqBt29nEz8n6Oc01Z9Zzdwv8CoMFNpM/edit#slide=id.g242294abb39_12_131" target="_blank" rel="noopener noreferrer">este link</a>.
 </p>
 <br>
 
